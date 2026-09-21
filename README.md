@@ -4,7 +4,7 @@ A semantics-based search tool.
 
 ## Usage
 
-```
+```python
 from semantic_archive import SemanticArchive
 from dotenv import load_dotenv
 import os
